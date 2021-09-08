@@ -1,4 +1,4 @@
 # calculator
-creating calculator with pure HTML, CSS &amp; JS
-This is a mini project to enhance HTML, CSS and JS basics.
-In this project we are using pure JS without any javascript libraries or frameworks.
+creating calculator HTML, CSS and JS
+<img width="960" alt="2021-09-08" src="https://user-images.githubusercontent.com/70716047/132547617-7359cd53-cd14-42a0-8b04-ff6bf4037f95.png">
+
